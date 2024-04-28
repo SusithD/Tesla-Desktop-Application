@@ -1,0 +1,433 @@
+C:\Users\Gimz\source\repos\porches\bin\Debug\porches.exe.config
+C:\Users\Gimz\source\repos\porches\bin\Debug\porches.exe
+C:\Users\Gimz\source\repos\porches\bin\Debug\porches.pdb
+C:\Users\Gimz\source\repos\porches\bin\Debug\Guna.UI.dll
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.Form1.resources
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.Properties.Resources.resources
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.csproj.GenerateResource.cache
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.csproj.CoreCompileInputs.cache
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.csproj.CopyComplete
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.exe
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.pdb
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.cusrtom.resources
+C:\Users\Gimz\source\repos\porches\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.csproj.ResolveComReference.cache
+C:\Users\Gimz\source\repos\porches\obj\Debug\Selection.cs.Form1.resources
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.ModelMenu.resources
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.ModelX.resources
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.Model_S.resources
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.ModelY.resources
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.csproj.AssemblyReference.cache
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.AdminLoginNew.resources
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.SignInNew.resources
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.Sinupnew.resources
+C:\Users\Gimz\source\repos\porches\obj\Debug\porches.AdminDashBoard.resources
+C:\Users\iamsu\OneDrive\Desktop\porches\bin\Debug\porches.exe.config
+C:\Users\iamsu\OneDrive\Desktop\porches\bin\Debug\porches.exe
+C:\Users\iamsu\OneDrive\Desktop\porches\bin\Debug\porches.pdb
+C:\Users\iamsu\OneDrive\Desktop\porches\bin\Debug\Guna.UI.dll
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.csproj.AssemblyReference.cache
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.csproj.SuggestedBindingRedirects.cache
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.csproj.ResolveComReference.cache
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.AdminDashBoard.resources
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.AdminLoginNew.resources
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\Selection.cs.Form1.resources
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.cusrtom.resources
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.Form1.resources
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.Model_S.resources
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.ModelMenu.resources
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.ModelX.resources
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.ModelY.resources
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.Properties.Resources.resources
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.SignInNew.resources
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.Sinupnew.resources
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.csproj.GenerateResource.cache
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.csproj.CoreCompileInputs.cache
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.csproj.CopyComplete
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.exe
+C:\Users\iamsu\OneDrive\Desktop\porches\obj\Debug\porches.pdb
+C:\Users\iamsu\OneDrive\Desktop\porches\bin\Debug\Guna.UI2.dll
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\bin\Debug\porches.exe.config
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\bin\Debug\porches.exe
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\bin\Debug\porches.pdb
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\bin\Debug\Guna.UI2.dll
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.csproj.AssemblyReference.cache
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.csproj.ResolveComReference.cache
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.AdminDashBoard.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.AdminLoginNew.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\Selection.cs.Form1.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.Form1.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.Model_S.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.ModelMenu.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.ModelX.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.ModelY.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.Properties.Resources.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.SignInNew.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.Sinupnew.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.csproj.GenerateResource.cache
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.csproj.CoreCompileInputs.cache
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.csproj.CopyComplete
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.exe
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.pdb
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.Model_3.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.OrderSummery.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\porches - Copy\porches - Copy\obj\Debug\porches.Employee_ord.resources
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.AssemblyReference.cache
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.SuggestedBindingRedirects.cache
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.ResolveComReference.cache
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.AdminDashBoard.resources
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.AdminLoginNew.resources
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\Selection.cs.Form1.resources
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.Model_3.resources
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.Employee_ord.resources
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.Form1.resources
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.Home.resources
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.Model_S.resources
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.ModelMenu.resources
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.ModelX.resources
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.ModelY.resources
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.OrderSummery.resources
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.Properties.Resources.resources
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.SignInNew.resources
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.Sinupnew.resources
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.GenerateResource.cache
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.CoreCompileInputs.cache
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.exe
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.pdb
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\bin\Debug\porches.exe.config
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\bin\Debug\porches.exe
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\bin\Debug\porches.pdb
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\bin\Debug\Guna.UI2.dll
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.CopyComplete
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.AboutUs.resources
+C:\Users\iamsu\OneDrive\Documents\Tesla Updated\porches - Copy\obj\Debug\porches.ContactUs.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\bin\Debug\porches.exe.config
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\bin\Debug\porches.exe
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\bin\Debug\porches.pdb
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\bin\Debug\Guna.UI2.dll
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.AssemblyReference.cache
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.ResolveComReference.cache
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.AboutUs.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.AdminDashBoard.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.AdminLoginNew.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\Selection.cs.Form1.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.ContactUs.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.Model_3.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.Employee_ord.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.Form1.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.Home.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.Model_S.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.ModelMenu.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.ModelX.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.ModelY.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.OrderSummery.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.Properties.Resources.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.SignInNew.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.Sinupnew.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.GenerateResource.cache
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.CoreCompileInputs.cache
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.CopyComplete
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.exe
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.pdb
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.Manager.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\bin\Debug\porches.exe.config
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\bin\Debug\porches.exe
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\bin\Debug\porches.pdb
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\bin\Debug\Guna.UI2.dll
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.AssemblyReference.cache
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.SuggestedBindingRedirects.cache
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.ResolveComReference.cache
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.AboutUs.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.AdminDashBoard.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.AdminLoginNew.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\Selection.cs.Form1.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.ContactUs.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.Model_3.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.Employee_ord.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.Form1.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.Home.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.Manager.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.Model_S.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.ModelMenu.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.ModelX.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.ModelY.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.OrderSummery.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.Properties.Resources.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.SignInNew.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.Sinupnew.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.GenerateResource.cache
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.CoreCompileInputs.cache
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.CopyComplete
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.exe
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated\Tesla Updated\porches - Copy\obj\Debug\porches.pdb
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\bin\Debug\porches.exe.config
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\bin\Debug\porches.exe
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\bin\Debug\porches.pdb
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\bin\Debug\Guna.UI2.dll
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.AssemblyReference.cache
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.ResolveComReference.cache
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.AboutUs.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.AdminDashBoard.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.AdminLoginNew.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\Selection.cs.Form1.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.ContactUs.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.Model_3.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.Employee_ord.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.Form1.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.Home.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.Manager.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.Model_S.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.ModelMenu.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.ModelX.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.ModelY.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.OrderSummery.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.Properties.Resources.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.SignInNew.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.Sinupnew.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.GenerateResource.cache
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.CoreCompileInputs.cache
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.CopyComplete
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.exe
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.pdb
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\bin\Debug\porches.exe.config
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\bin\Debug\porches.exe
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\bin\Debug\porches.pdb
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\bin\Debug\Guna.UI2.dll
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.AssemblyReference.cache
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.SuggestedBindingRedirects.cache
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.ResolveComReference.cache
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.AboutUs.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.AdminDashBoard.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.AdminLoginNew.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\Selection.cs.Form1.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.ContactUs.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.Model_3.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.Employee_ord.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.Form1.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.Home.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.Manager.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.Model_S.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.ModelMenu.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.ModelX.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.ModelY.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.OrderSummery.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.Properties.Resources.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.SignInNew.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.Sinupnew.resources
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.GenerateResource.cache
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.CoreCompileInputs.cache
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.csproj.CopyComplete
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.exe
+C:\Users\iamsu\Downloads\Telegram Desktop\Tesla Updated V 1.1\Tesla Updated V 1.0\Tesla Updated\porches - Copy\obj\Debug\porches.pdb
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\bin\Debug\porches.exe.config
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\bin\Debug\porches.exe
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\bin\Debug\porches.pdb
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\bin\Debug\Guna.UI2.dll
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.csproj.AssemblyReference.cache
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.csproj.ResolveComReference.cache
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.AboutUs.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.AdminDashBoard.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.AdminLoginNew.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\Selection.cs.Form1.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.ContactUs.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.Model_3.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.Employee_ord.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.Form1.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.Home.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.Manager.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.Model_S.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.ModelMenu.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.ModelX.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.ModelY.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.OrderSummery.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.Properties.Resources.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.SignInNew.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.Sinupnew.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.csproj.GenerateResource.cache
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.csproj.CoreCompileInputs.cache
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.csproj.CopyComplete
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.exe
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.pdb
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.ManagerLogin.resources
+C:\Users\Gimz\Downloads\Telegram Desktop\Tesla Updated V 1.1 (2)\Tesla Updated V 1.1\obj\Debug\porches.EmployeeCustomer.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.csproj.AssemblyReference.cache
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.csproj.SuggestedBindingRedirects.cache
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.csproj.ResolveComReference.cache
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.AboutUs.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.AdminDashBoard.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.AdminLoginNew.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\Selection.cs.Form1.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.ContactUs.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Model_3.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Employee_ord.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.EmployeeCustomer.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Form1.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Home.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Manager.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.ManagerLogin.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Model_S.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.ModelMenu.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.ModelX.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.ModelY.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.OrderSummery.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Properties.Resources.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.SignInNew.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Sinupnew.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.csproj.GenerateResource.cache
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.csproj.CoreCompileInputs.cache
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.exe
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.pdb
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\porches.exe.config
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\porches.exe
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\porches.pdb
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\Guna.UI2.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.csproj.CopyComplete
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Report1.resources
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\EnvDTE.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\stdole.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\OneDrive\Documents\Project\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Customer_Report.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\porches.exe.config
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\porches.exe
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\porches.pdb
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\Guna.UI2.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\EnvDTE.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\stdole.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.csproj.AssemblyReference.cache
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.csproj.ResolveComReference.cache
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.AboutUs.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.AdminDashBoard.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.AdminLoginNew.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\Selection.cs.Form1.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.ContactUs.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Model_3.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Customer_Report.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Employee_ord.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.EmployeeCustomer.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Form1.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Home.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Manager.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.ManagerLogin.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Model_S.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.ModelMenu.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.ModelX.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.ModelY.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.OrderSummery.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Properties.Resources.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Report1.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.SignInNew.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.Sinupnew.resources
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.csproj.GenerateResource.cache
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.csproj.CoreCompileInputs.cache
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.csproj.Up2Date
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.exe
+C:\Users\iamsu\Downloads\Tesla Updated V 1.1-20240427T045936Z-001\Tesla Updated V 1.1\Tesla Updated V 1.1\obj\Debug\porches.pdb
