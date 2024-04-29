@@ -37,6 +37,12 @@ To get started with the Tesla Desktop Application, follow these simple steps:
 
 ## Contributing
 
+This project was completed as part of an academic project by the following contributors:
+
+- Nipul Kanishka
+- Kumal Illankoon
+- Susith Deshan
+
 We welcome contributions from the community to help make the Tesla Desktop Application even better. If you'd like to contribute, please fork the repository and submit a pull request with your changes.
 
 ## License
