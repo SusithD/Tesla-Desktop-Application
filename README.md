@@ -50,13 +50,6 @@ We welcome contributions from the community to help make the Tesla Desktop Appli
 
 This project is licensed under the [MIT License](LICENSE), allowing for open collaboration and innovation.
 
-## Contact
-
-For any questions, feedback, or inquiries, please reach out to the project maintainers:
-
-- John Doe: john.doe@example.com
-- Jane Smith: jane.smith@example.com
-
 We're excited to hear from you and grateful for your interest in the Tesla Desktop Application!
 
 ---
