@@ -34,6 +34,7 @@ To get started with the Tesla Desktop Application, follow these simple steps:
 1. Clone the repository to your local machine using `git clone`.
 2. Open the project in Visual Studio.
 3. Build and run the application.
+4. The database query for the application can be found in the database folder.
 
 ## Contributing
 
